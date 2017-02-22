@@ -1,6 +1,6 @@
 cordova-plugin-alipay
 
-```
+```javascript
     var myDate = new Date();
     var tradeNo = myDate.getTime();
 
