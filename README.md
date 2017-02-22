@@ -1,7 +1,6 @@
 cordova-plugin-alipay
 
 ```
-    alert("weixin demo");
     var myDate = new Date();
     var tradeNo = myDate.getTime();
 
