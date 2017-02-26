@@ -15,16 +15,16 @@
 	<platform name="android">
 
 		<source-file
-			src="src/android/Alipay.java"
+			src="src/android/alipay/Alipay.java"
 			target-dir="src/org/apache/cordova/alipay" />
 		<source-file
-			src="src/android/Base64.java"
+			src="src/android/alipay/Base64.java"
 			target-dir="src/org/apache/cordova/alipay" />
 		<source-file
-			src="src/android/Result.java"
+			src="src/android/alipay/Result.java"
 			target-dir="src/org/apache/cordova/alipay" />
 		<source-file
-			src="src/android/SignUtils.java"
+			src="src/android/alipay/SignUtils.java"
 			target-dir="src/org/apache/cordova/alipay" />
 
 		<source-file src="src/android/alipaySdk-20160223.jar" target-dir="libs" />
