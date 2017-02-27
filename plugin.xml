@@ -31,7 +31,7 @@
 
 		<config-file target="res/xml/config.xml" parent="/*">
 			<feature name="Alipay">
-				<param name="android-package" value="com.yoopoon.cordova.plugin.alipay.Alipay" />
+				<param name="android-package" value="org.apache.cordova.alipay.Alipay" />
 				<param name="onload" value="true" />
 			</feature>
 		</config-file>
